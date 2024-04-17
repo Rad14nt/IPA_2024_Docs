@@ -1,0 +1,322 @@
+<mxfile host="app.diagrams.net" modified="2024-04-17T14:09:17.656Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="BDFFqP6BvMjcRcAMTvK_" version="24.2.5" type="device">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-7" value="Navigate to offer overview" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-1" target="aM9ryv3xv72pqoxQDRHE-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="170" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="180" y="120" />
+            </Array>
+            <mxPoint x="385" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-9" value="Display offers and &quot;Create New Offer Button&quot; button" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=8 8;" parent="1" source="aM9ryv3xv72pqoxQDRHE-5" target="aM9ryv3xv72pqoxQDRHE-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="160" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="190" y="160" />
+            </Array>
+            <mxPoint x="100" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKvY_Jm0F2j54zqgQGJn-3" value="ANGEBOTSoftware Backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="850" y="40" width="120" height="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="lKvY_Jm0F2j54zqgQGJn-5" value="Click &quot;Create New Offer&quot;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="200" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="180" y="200" />
+            </Array>
+            <mxPoint x="440" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKvY_Jm0F2j54zqgQGJn-6" value="Display form &lt;span style=&quot;&quot;&gt;including 3 Versicherungssumme fields&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;labelBackgroundColor=none;dashed=1;dashPattern=8 8;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="240" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="190" y="240" />
+            </Array>
+            <mxPoint x="90" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKvY_Jm0F2j54zqgQGJn-13" value="Fill out Form" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="280" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="180" y="280" />
+            </Array>
+            <mxPoint x="440" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKvY_Jm0F2j54zqgQGJn-14" value="Send form data" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="320" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="530" y="320" />
+            </Array>
+            <mxPoint x="689.5" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKvY_Jm0F2j54zqgQGJn-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="350" as="sourcePoint" />
+            <mxPoint x="689.5" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="350" />
+              <mxPoint x="740" y="360" />
+              <mxPoint x="720" y="360" />
+              <mxPoint x="710" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKvY_Jm0F2j54zqgQGJn-17" value="Retrieve customer by id&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lKvY_Jm0F2j54zqgQGJn-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.4082" y="1" relative="1" as="geometry">
+            <mxPoint x="40" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKvY_Jm0F2j54zqgQGJn-32" value="User" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lKvY_Jm0F2j54zqgQGJn-33" value="OVWEB Frontend" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="1170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lKvY_Jm0F2j54zqgQGJn-34" value="OVWEB Backend" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lKvY_Jm0F2j54zqgQGJn-35" value="ANGEBOTSoftware Backend" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="860" y="1170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sgo-pSfODDf2OebPfVKA-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="410" as="sourcePoint" />
+            <mxPoint x="689.5" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="410" />
+              <mxPoint x="740" y="420" />
+              <mxPoint x="720" y="420" />
+              <mxPoint x="710" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sgo-pSfODDf2OebPfVKA-2" value="&lt;span style=&quot;&quot;&gt;Create duplicate offers&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;with different VS fields&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="Sgo-pSfODDf2OebPfVKA-1" vertex="1" connectable="0">
+          <mxGeometry x="-0.4082" y="1" relative="1" as="geometry">
+            <mxPoint x="57" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sgo-pSfODDf2OebPfVKA-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;dashed=1;dashPattern=1 4;strokeColor=#b85450;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="90" y="500" width="820" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Sgo-pSfODDf2OebPfVKA-5" value="alt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="500" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sgo-pSfODDf2OebPfVKA-8" value="condition : error" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="500" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lKvY_Jm0F2j54zqgQGJn-1" value="Ovweb Backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="640" y="40" width="100" height="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="OVWEB Frontend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="390" y="40" width="100" height="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value="User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="100" height="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="Sgo-pSfODDf2OebPfVKA-11" value="Return error" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=8 8;" parent="1" edge="1">
+          <mxGeometry x="0.0003" relative="1" as="geometry">
+            <mxPoint x="690" y="529.52" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="440.02380952380963" y="529.6628571428571" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sgo-pSfODDf2OebPfVKA-13" value="Send offers one by one to validate them" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0381" relative="1" as="geometry">
+            <mxPoint x="690" y="460" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="780" y="460" />
+            </Array>
+            <mxPoint x="910" y="460" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sgo-pSfODDf2OebPfVKA-14" value="Return calculated offers or errors one by one" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=8 8;" parent="1" edge="1">
+          <mxGeometry x="-0.0013" relative="1" as="geometry">
+            <mxPoint x="910" y="490" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="690" y="490" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sgo-pSfODDf2OebPfVKA-16" value="Display error" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=8 8;" parent="1" edge="1">
+          <mxGeometry x="-0.0013" relative="1" as="geometry">
+            <mxPoint x="439.48" y="590.004761904762" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="90.00380952380964" y="590.004761904762" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sgo-pSfODDf2OebPfVKA-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.871;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Sgo-pSfODDf2OebPfVKA-4" target="aM9ryv3xv72pqoxQDRHE-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="420" as="sourcePoint" />
+            <mxPoint x="30" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="450" />
+              <mxPoint x="10" y="350" />
+              <mxPoint x="10" y="320" />
+              <mxPoint x="30" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sgo-pSfODDf2OebPfVKA-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;dashed=1;dashPattern=1 4;strokeColor=#82b366;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="90" y="610" width="820" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="Sgo-pSfODDf2OebPfVKA-20" value="alt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="610" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sgo-pSfODDf2OebPfVKA-21" value="condition : valid offer calculations" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="610" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sgo-pSfODDf2OebPfVKA-22" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="650" as="sourcePoint" />
+            <mxPoint x="689.5" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="650" />
+              <mxPoint x="740" y="660" />
+              <mxPoint x="720" y="660" />
+              <mxPoint x="710" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sgo-pSfODDf2OebPfVKA-23" value="Retrieve customer by id&amp;nbsp;&lt;div&gt;and save offer to database&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Sgo-pSfODDf2OebPfVKA-22" vertex="1" connectable="0">
+          <mxGeometry x="-0.4082" y="1" relative="1" as="geometry">
+            <mxPoint x="40" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKvY_Jm0F2j54zqgQGJn-19" value="Return newly saved offer ID" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=8 8;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="689.5" y="690" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="440" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKvY_Jm0F2j54zqgQGJn-20" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="720" as="sourcePoint" />
+            <mxPoint x="440" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="720" />
+              <mxPoint x="490" y="730" />
+              <mxPoint x="470" y="730" />
+              <mxPoint x="460" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKvY_Jm0F2j54zqgQGJn-21" value="Forward to detail Page" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lKvY_Jm0F2j54zqgQGJn-20" vertex="1" connectable="0">
+          <mxGeometry x="-0.4082" y="1" relative="1" as="geometry">
+            <mxPoint x="27" y="26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKvY_Jm0F2j54zqgQGJn-22" value="Call calculate offer endpoint with returned offer id" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0381" relative="1" as="geometry">
+            <mxPoint x="440" y="800" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="530" y="800" />
+            </Array>
+            <mxPoint x="689.5" y="800" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKvY_Jm0F2j54zqgQGJn-23" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="830" as="sourcePoint" />
+            <mxPoint x="689.5" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="830" />
+              <mxPoint x="740" y="840" />
+              <mxPoint x="720" y="840" />
+              <mxPoint x="710" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKvY_Jm0F2j54zqgQGJn-24" value="Retrieve offer by id&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lKvY_Jm0F2j54zqgQGJn-23" vertex="1" connectable="0">
+          <mxGeometry x="-0.4082" y="1" relative="1" as="geometry">
+            <mxPoint x="30" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKvY_Jm0F2j54zqgQGJn-29" value="Return Response" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=8 8;" parent="1" edge="1">
+          <mxGeometry x="-0.0013" relative="1" as="geometry">
+            <mxPoint x="690" y="1020" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="440" y="1020" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sgo-pSfODDf2OebPfVKA-25" value="Send offers one by one to calculate them" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0381" relative="1" as="geometry">
+            <mxPoint x="690" y="870" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="780" y="870" />
+            </Array>
+            <mxPoint x="910" y="870" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sgo-pSfODDf2OebPfVKA-26" value="Return calculated offers one by one" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=8 8;" parent="1" edge="1">
+          <mxGeometry x="-0.0013" relative="1" as="geometry">
+            <mxPoint x="910" y="900" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="690" y="900" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sgo-pSfODDf2OebPfVKA-27" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="960" as="sourcePoint" />
+            <mxPoint x="689.5" y="970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="960" />
+              <mxPoint x="740" y="970" />
+              <mxPoint x="720" y="970" />
+              <mxPoint x="710" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sgo-pSfODDf2OebPfVKA-28" value="Place calculated offers&amp;nbsp;&lt;div&gt;into one Response&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Sgo-pSfODDf2OebPfVKA-27" vertex="1" connectable="0">
+          <mxGeometry x="-0.4082" y="1" relative="1" as="geometry">
+            <mxPoint x="27" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKvY_Jm0F2j54zqgQGJn-31" value="Display calculated offers" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=8 8;" parent="1" edge="1">
+          <mxGeometry x="-0.0014" relative="1" as="geometry">
+            <mxPoint x="440.5" y="1150" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="90" y="1150" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sgo-pSfODDf2OebPfVKA-29" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="1060" as="sourcePoint" />
+            <mxPoint x="440" y="1070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="1060" />
+              <mxPoint x="490" y="1070" />
+              <mxPoint x="470" y="1070" />
+              <mxPoint x="460" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sgo-pSfODDf2OebPfVKA-30" value="Separate Response&lt;div&gt;&amp;nbsp;into 3 calculated offers&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Sgo-pSfODDf2OebPfVKA-29" vertex="1" connectable="0">
+          <mxGeometry x="-0.4082" y="1" relative="1" as="geometry">
+            <mxPoint x="27" y="26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
